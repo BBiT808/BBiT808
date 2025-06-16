@@ -1,4 +1,4 @@
-## 🍀 Hi!! I'm about to start my dev_life! 🐹✌️
+## 🍀 Hi!! I'm about to start my dev_life! ✌️🐹
 
 <!--
 **BBiT808/BBiT808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
