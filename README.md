@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align='center'>
   <a href="https://github.com/BBiT808">
-    <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=BBiT's%20Repository&section=header&desc=Hello%20!&descAlignY=76&fontColor=e2f792"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=BBiT's%20Repository&section=header&desc=Hello%20!&descAlignY=76&fontColor=e2f792"/>
   </a>
 </p>
 
