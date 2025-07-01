@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+<p align='center'>
+  <a href="https://github.com/BBiT808">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=BBiT's%20Repository&section=header&desc=Hello%20!&descAlignY=76&fontColor=e2f792"/>
+  </a>
+</p>
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=BBiT808&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/BBiT808"
@@ -22,12 +30,6 @@ Here are some ideas to get you started:
   height="300"
 />
 </a>
-
-<p align='center'>
-  <a href="https://github.com/BBiT808">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=BBiT's%20Repository&section=header&desc=Hello%20!&descAlignY=76&fontColor=e2f792"/>
-  </a>
-</p>
 
 ## Profile
 - `Name` : Kim Eunhee (BBiT)
