@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 ## Profile
 - `Name` : Kim Eunhee (BBiT)
 - `Email` : pinokio1031@naver.com
+- `Portfolio` : https://bbit808.github.io/Dockerfile_data/
  
 ## GitHub Stat and Languages
 <!-- username은 본인걸로 -->
