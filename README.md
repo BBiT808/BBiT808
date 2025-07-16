@@ -75,8 +75,6 @@ Here are some ideas to get you started:
 -->
 
 ## Project List
-## 📁 프로젝트 목록
-
  | 이미지 | 프로젝트명 | 설명 | 링크 |
 |------------|------|------|--------|
 | <img width="200" alt="image" src="https://github.com/user-attachments/assets/12f16236-1771-421f-ae8d-cc15abb2cc11" />| 직관적인 UI를 가진<br/>도서 관리 시스템 | 전자 도서관 시스템을 구현한 미니 팀 프로젝트입니다.<br/>책 검색, 대출/반납, 사용자 관리 기능 등을 포함하고 있습니다. | [바로가기](https://github.com/jszxro/PK_miniproject_3) |
