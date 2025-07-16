@@ -79,10 +79,13 @@ Here are some ideas to get you started:
 
  | 이미지 | 프로젝트명 | 설명 | 링크 |
 |------------|------|------|--------|
-| ![도서관리](/workspaces/dockerfile_data/dev_nodejs_react/VITE_react/portfolio/public/images/book.png) | 직관적인 UI를 가진 도서 관리 시스템 | 전자 도서관 시스템을 구현한 미니 팀 프로젝트입니다.<br/>책 검색, 대출/반납, 사용자 관리 기능 등을 포함하고 있습니다. | [바로가기](https://github.com/jszxro/PK_miniproject_3) |
-| ![최저가](/workspaces/dockerfile_data/dev_nodejs_react/VITE_react/portfolio/public/images/web.png) | 부산 지역별 최저가 상품 찾기 웹 서비스 | 부산광역시의 7개 구의 소비자 물가 데이터를 분석하고<br/>시각화하여 보여주는 웹서비스입니다. | [바로가기](https://github.com/BSEom/teamP_t1/tree/main) |
-![기술스택](/workspaces/dockerfile_data/dev_nodejs_react/VITE_react/portfolio/public/images/github.png) | Github main | 교육 동안 배운 기술 스택을 종류별로 정리한 저장소입니다.<br/>다양한 기술을 연마할 수 있었던 소중한 기간이었습니다. | [바로가기](https://github.com/jszxro) |
-![HTMLJS](/workspaces/dockerfile_data/dev_nodejs_react/VITE_react/portfolio/public/images/html.png) | HTML 및 JavaScript 정리 사이트 | HTML과 JavaScript를 정리한 웹페이지입니다.<br/>배운 내용을 실습하며 구성했습니다. | [바로가기](https://bbit808.github.io/html/) |
+| ![도서관리](https://github.com/jszxro/PK_miniproject_3/raw/main/img/p2.png) | 직관적인 UI를 가진 도서 관리 시스템 | 전자 도서관 시스템을 구현한 미니 팀 프로젝트입니다.<br/>책 검색, 대출/반납, 사용자 관리 기능 등을 포함하고 있습니다. | [바로가기](https://github.com/jszxro/PK_miniproject_3) |
+| ![최저가](<img width="898" height="436" alt="image" src="https://github.com/user-attachments/assets/6b259bf0-6def-4867-b69e-7e888147e0a2" />
+) | 부산 지역별 최저가 상품 찾기 웹 서비스 | 부산광역시의 7개 구의 소비자 물가 데이터를 분석하고<br/>시각화하여 보여주는 웹서비스입니다. | [바로가기](https://github.com/BSEom/teamP_t1/tree/main) |
+![기술스택](<img width="899" height="430" alt="image" src="https://github.com/user-attachments/assets/37ee82a3-f363-4373-a814-26de61a6e209" />
+) | Github main | 교육 동안 배운 기술 스택을 종류별로 정리한 저장소입니다.<br/>다양한 기술을 연마할 수 있었던 소중한 기간이었습니다. | [바로가기](https://github.com/jszxro) |
+![HTMLJS](<img width="645" height="447" alt="image" src="https://github.com/user-attachments/assets/3ffa0ecf-1d4f-4105-980b-4a528f9831ec" />
+) | HTML 및 JavaScript 정리 사이트 | HTML과 JavaScript를 정리한 웹페이지입니다.<br/>배운 내용을 실습하며 구성했습니다. | [바로가기](https://bbit808.github.io/html/) |
 
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
